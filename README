@@ -1,0 +1,11 @@
+DEUTSCHLAND PLUGIN IN DEUTSCH
+
+Sag einfach "Deutschland" und Siri antwortet mit einem Deutschland Spruch.
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "deutschland" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "deutschland" in plugins.conf ein
+
+FERTIG
